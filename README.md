@@ -3,6 +3,7 @@
 ## Tecnologias
 ## POST /topicos/login: 
 Autenticación de usuarios con nombre de usuario y contraseña.
+<img src="imagenes\LOGIN.png"/>
 ## POST /topicos: 
 Permite a los usuarios crear nuevos tópicos en el foro con su token generado.
 ## GET /topicos/listado: 

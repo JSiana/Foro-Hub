@@ -1,6 +1,15 @@
 <h1 align="center"> FORO-HUB</h1>
 
 ## Tecnologias
+Java
+Maven
+Spring Boot
+Spring Data JPA
+MySQL
+JWT (JSON Web Tokens)
+
+## FUNCIONALIDADES
+
 ## POST /topicos/login: 
 Autenticación de usuarios con nombre de usuario y contraseña.
 <img src="Imagenes\LOGIN.png"/>

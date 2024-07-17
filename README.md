@@ -19,7 +19,7 @@ Permite a los usuarios crear nuevos tópicos en el foro con su token generado.
 ## GET /topicos/listado: 
 Muestra una lista de todos los tópicos disponibles.
 <img src="Imagenes\LISTADO.png"/>
-## PUT /topicos/{id}: 
+## PUT /topicos
 Permite la actualización de la información de un tópico existente.
 <img src="Imagenes\ACTUALIZAR TOPICO.png"/>
 ## DELETE /topicos/{id}: 
